@@ -1,4 +1,4 @@
-# Airline Management Database
+# Airline Management Database Team Project
 
 This project contains an airline management database with tables for storing employee, flight, passenger, and airport information. The SQL code includes table creation statements and sample data insertion statements.
 
